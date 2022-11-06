@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Hello User</string>
+
+    <!-- Tampilan 1 -->
+    <!--  Tampilan 1 - Dropdown  -->
+    <string name="store_label">Store</string>
+    <string-array name="store">
+        <item>Cihampelas</item>
+        <item>Cibiru</item>
+        <item>Ujung Berung</item>
+    </string-array>
+    <!--  Tampilan 1 - Input Nama  -->
+    <string name="name_label">Your Name</string>
+    <string name="editText_name">Please fill your name</string>
+    <string name="location">Location</string>
+    <string name="find_maps">Find on Maps</string>
+    <!--  Activity 3  -->
+    <string name="title_activity_main3">Hello User</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Hello User</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="text_burger">Burger Cocok bagi anda yang ingin merasakan kelembutan burger berlapiskan keju, sayuran dan daging yang tebal</string>
+    <string name="text_spaghetti">Spaghetti Cocok bagi anda yang ingin merasakan spaghetti original dengan bumbu yang oriental</string>
+    <string name="text_pizza">Pepperoni Pizza Cocok bagi anda yang ingin merasakan pizza original dengan taburan keju dan daging asap yang lezat</string>
+    <string name="text_steak">Steak Cocok bagi anda yang ingin merasakan lezatnya daging steak dipadukan dengan kentang yang lezat</string>
+    <string name="burger_order_message">Memesan Burger</string>
+    <string name="pizza_order_message">Memesan pizza</string>
+    <string name="spaghetti_order_message">Memesan spaghetti</string>
+    <string name="steak_order_message">Memesan steak</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="desc_product">Pepperoni pizza adalah pizza yang memiliki  topping daging pepperoni sapi asli. Di Italia, pepperoni disebut salame piccante (salami panas). Biasa menjadi bahan baku pizza di Amerika Serikat, yang sering mewakili 30% pelengkap. Pizza ini cocok untuk santap siang ataupun malam anda</string>
+</resources>
